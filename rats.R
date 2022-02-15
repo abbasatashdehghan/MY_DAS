@@ -1,3 +1,4 @@
+# This is a test
 rat.tumors <- read.table(file="rats.txt", header=TRUE)
 y <- rat.tumors$y
 n <- rat.tumors$N
