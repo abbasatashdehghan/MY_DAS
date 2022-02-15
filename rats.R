@@ -5,7 +5,7 @@ rm(rat.tumors)
 y
 n
 
-# Rat tumor data - GCSR Chp 5, p. 118
+# Rat tumor data - GCSR Chp 5., p. 118
 # > y
 # [1]  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  1  1  1  1  1  1  1  3  2  2
 # [26]  2  2  2  2  2  2  2  1  5  2  5  2  7  7  3  3  2  9 10  4  4  4  4  4  4
